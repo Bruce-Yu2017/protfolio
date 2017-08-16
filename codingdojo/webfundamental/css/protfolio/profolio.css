@@ -1,0 +1,163 @@
+/*
+* {
+    margin: 0px;
+    padding: 0px;
+}
+*/
+
+.headBar {
+    background-color: rgb(230, 173, 173);
+    width: 745px;
+}
+
+#header1 {
+    display: inline-block;
+    position: relative;
+    left: 20px;
+    width: 340px;
+    font-weight: 700;
+}
+
+#header2 {
+    text-align: right;
+    display: inline-block;
+    position: relative;
+    left: 140px;
+    font-weight: 700;
+}
+
+.bigSuround {
+    width: 705px;
+    height: 880px;
+    border: 20px solid rgb(111,89,100);
+    background-color: rgb(111,89,100);
+}
+
+#me {
+    width: 263px;
+    height: 180px;
+    border: 5px solid white;
+}
+
+#p1 {
+    margin-left: 11px;
+}
+
+#aboutme {
+    display: inline-block;
+    text-align: left;
+    width: 409px;
+    height: 182px;
+    position: relative;
+    top: -51px;
+    right: -10px;
+    margin: 0 5px;
+    background-color: rgb(201,179,185);
+        
+}
+
+#abouthead {
+    background-color: rgb(175,175,179);
+    height: 33px;
+    margin: 0px;
+    color: wheat;
+}
+
+
+.midPic {
+    width: 222px;
+    height: 139px;
+    margin: auto;
+    margin-left: 0px;
+}
+
+
+.smallhead {
+    margin: 0;
+    position: relative;
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 212px;
+    height: 25px;
+    background-color: gray;
+    font-weight: 600;
+    color: wheat;
+}
+
+.smallPic {
+    display: inline;
+}
+
+
+
+.LAMODE {
+    width: 222px;
+    height: 650px;
+    display: inline-block;
+    background-color: silver;
+    
+    margin-right: 10px;
+}
+
+.FAMILY {
+    width: 222px;
+    height: 650px;
+    display: inline-block;
+    background-color: silver;
+    
+    margin-right: 10.5px;
+}
+
+.FIVEWLEVEN {
+    width: 222px;
+    height: 650px;
+    display: inline-block;
+    background-color: silver;
+    
+/*    margin-right: 20px;*/
+}
+
+.p2 {
+    width: 160px;
+    height: 280px;
+    padding: 2px;
+    margin-left: 10px;
+}
+
+.smallPICT {
+    position: relative;
+    top: 13px;
+    left: 12px;
+}
+
+.smallPic {
+    width: 36px;
+    height: 36px;
+}
+
+button {
+    display: block;
+    position: relative;
+    top: 16px;
+    left: 80px;
+}
+
+#jdoecontact {
+    margin: 0;
+    text-align: center;
+}
+
+.bottomBar {
+    background-color: #c595e8;
+    width: 745px;
+    height: 50px;
+}
+
+.contact {
+    text-align: center;
+}
+
+.smallest {
+    width: 15px;
+    height: 15px;
+}
